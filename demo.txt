@@ -1,0 +1,14 @@
+Maven is a project management and comprehension tool that provides developers a complete build lifecycle framework. Development team can automate the project's build infrastructure in almost no time as Maven uses a standard directory layout and a default build lifecycle.
+
+In case of multiple development teams environment, Maven can set-up the way to work as per standards in a very short time. As most of the project setups are simple and reusable, Maven makes life of developer easy while creating reports, checks, build and testing automation setups.
+
+Maven provides developers ways to manage the following −
+
+Builds
+Documentation
+Reporting
+Dependencies
+SCMs
+Releases
+Distribution
+Mailing list
